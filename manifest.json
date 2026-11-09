@@ -3,7 +3,7 @@
   "name": "Inbox Classifier",
   "version": "1.0.2",
   "minAppVersion": "1.4.0",
-  "description": "扫描 Get 笔记同步进来的新笔记，按规则建议目录与标签，确认后自动归类、补双链，并重建知识库地图的目录树。",
+  "description": "Sort new notes automatically: suggest a folder and tags for each note, ask before adding new tags, then move the file and rebuild the folder tree.",
   "author": "elowen（咪咪）",
   "isDesktopOnly": false,
   "authorUrl": "https://github.com/elowenMiMi"
